@@ -11,6 +11,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+
 	</head>
 	<body class="is-preload">
 
@@ -36,8 +37,76 @@
 								<li><a href="#first" class="button big wide smooth-scroll-middle">Some more stuff</a></li>
 							</ul>
 						</div>
-						<div class="image">
-							<img src="images/banner.gif" alt="" />
+						<!--<div class="image">-->
+						<style type="text/css">
+
+#slider {
+	overflow: hidden;
+}
+#slider figure {
+	position: relative;
+	width: 500%;
+	margin: 0;
+	left: 0;
+	animation: 20s slider infinite;
+}
+#slider figure img {
+	float: left;
+	width: 20%;
+}
+
+@keyframes slider {
+	0% {
+		left: 0;
+	}
+	20% {
+		left: 0;
+	}
+	25% {
+		left: -100%;
+	}
+	45% {
+		left: -100%;
+	}
+	50% {
+		left: -200%;
+	}
+	70% {
+		left: -200%;
+	}
+	75% {
+		left: -300%;
+	}
+	95% {
+		left: -300%;
+	}
+	100% {
+		left: -400%;
+	}
+}
+
+</style>
+</head>
+<body>
+
+	<div id="slider">
+		<figure>
+			<img src="images/slide1.png">
+			<img src="images/slide2.png">
+			<img src="images/slide3.png">
+			<img src="images/slide4.png">
+			<img src="images/slide1.png">
+			<!--<img src="images/slide6.png">
+			<img src="images/slide7.png">
+			<img src="images/slide8.png">
+			<img src="images/slide9.png">
+			<img src="images/slide10.png">
+			<img src="images/slide11.png">
+			<img src="images/slide12.png">
+			<img src="images/slide13.png">-->
+		</figure>
+	</div>
+							<!--<img src="images/banner.gif" alt="" />-->
 						</div>
 					</section>
 
