@@ -1,0 +1,33 @@
+.u-section-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("images/170512130556-ti-83-84-calculators-1024x576.jpg")}
+.u-section-1 .u-sheet-1 {min-height: 1276px}
+.u-section-1 .u-text-1 {font-size: 4.5rem; text-shadow: 0 2px 8px rgba(128,128,128,1); width: 836px; margin: 102px auto 0}
+.u-section-1 .u-line-1 {width: 150px; height: 6px; margin: 33px auto 0}
+.u-section-1 .u-layout-wrap-1 {margin: 73px auto 60px 0}
+.u-section-1 .u-layout-cell-1 {min-height: 328px; background-image: none}
+.u-section-1 .u-text-2 {font-size: 1.25rem; letter-spacing: 2px; font-weight: 700; margin: 33px 20px 0}
+.u-section-1 .u-text-3 {font-size: 0.875rem; margin: 20px 20px 0}
+.u-section-1 .u-btn-1 {font-size: 1.5rem; padding: 0}
+.u-section-1 .u-layout-cell-2 {min-height: 328px; background-image: none}
+.u-section-1 .u-text-4 {font-size: 1.25rem; letter-spacing: 2px; font-weight: 700; margin: 33px 20px 0}
+.u-section-1 .u-text-5 {font-size: 0.875rem; margin: 20px 20px 0}
+.u-section-1 .u-btn-2 {font-size: 1.5rem; padding: 0} 
+
+@media (max-width: 1199px){ .u-section-1 {background-position: 50% 50%}
+.u-section-1 .u-sheet-1 {min-height: 994px}
+.u-section-1 .u-layout-wrap-1 {margin-right: initial; margin-left: initial}
+.u-section-1 .u-layout-cell-1 {min-height: 270px}
+.u-section-1 .u-text-2 {margin-left: 0; margin-right: 0}
+.u-section-1 .u-text-3 {margin-left: 0; margin-right: 0}
+.u-section-1 .u-layout-cell-2 {min-height: 270px}
+.u-section-1 .u-text-4 {margin-left: 0; margin-right: 0}
+.u-section-1 .u-text-5 {margin-left: 0; margin-right: 0} }
+
+@media (max-width: 991px){ .u-section-1 .u-sheet-1 {min-height: 824px}
+.u-section-1 .u-text-1 {width: 720px}
+.u-section-1 .u-layout-cell-1 {min-height: 100px}
+.u-section-1 .u-layout-cell-2 {min-height: 100px} }
+
+@media (max-width: 767px){ .u-section-1 .u-sheet-1 {min-height: 924px}
+.u-section-1 .u-text-1 {width: 540px; font-size: 3rem} }
+
+@media (max-width: 575px){ .u-section-1 .u-text-1 {font-size: 2.25rem; width: 340px} }
