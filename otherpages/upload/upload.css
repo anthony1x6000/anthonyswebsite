@@ -4,7 +4,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 121px;
+  min-height: 149px;
 }
 
 .u-section-1 .u-text-1 {
@@ -12,153 +12,185 @@
 }
 
 .u-section-1 .u-text-2 {
-  margin: 7px auto;
+  margin: 7px auto 0;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 0 auto 10px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 100px;
+    min-height: 123px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 87px;
+    margin-right: 22px;
+    margin-bottom: 0;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 77px;
+    min-height: 94px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 17px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 58px;
+    min-height: 71px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 13px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 37px;
+    min-height: 45px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 112px;
+    margin-right: 8px;
   }
 }.u-section-2 {
   background-image: url("images/Free-Simple-Black-Seamless-Pattern-for-Website-Background.jpg");
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 1321px;
+  min-height: 1458px;
 }
 
 .u-section-2 .u-text-1 {
   animation-duration: 1000ms;
   width: 477px;
-  margin: 8px auto 0;
-}
-
-.u-section-2 .u-custom-html-1 {
-  min-height: 657px;
-  animation-duration: 250ms;
-  height: auto;
-  width: 944px;
   margin: 0 auto;
 }
 
-.u-section-2 .u-layout-wrap-1 {
-  margin-top: 60px;
-  margin-bottom: 60px;
-}
-
-.u-section-2 .u-layout-cell-1 {
-  min-height: 441px;
-}
-
-.u-section-2 .u-container-layout-1 {
-  padding: 30px;
+.u-section-2 .u-custom-html-1 {
+  min-height: 907px;
+  animation-duration: 250ms;
+  height: auto;
+  width: 944px;
+  margin: 10px auto 0;
 }
 
 .u-section-2 .u-text-2 {
-  width: 359px;
   animation-duration: 1000ms;
-  margin: -21px auto 0;
+  margin: 31px 391px 0;
 }
 
 .u-section-2 .u-image-1 {
   width: 486px;
   height: 372px;
   animation-duration: 1000ms;
-  margin: 10px auto -8px;
+  margin: 10px auto 60px 327px;
 }
 
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 1019px;
+    min-height: 1202px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 236px;
+    margin-left: 227px;
   }
 
   .u-section-2 .u-custom-html-1 {
+    min-height: 883px;
     width: 940px;
-    margin-top: 8px;
   }
 
-  .u-section-2 .u-layout-wrap-1 {
-    position: relative;
-  }
-
-  .u-section-2 .u-layout-cell-1 {
-    min-height: 364px;
+  .u-section-2 .u-text-2 {
+    margin-right: 373px;
+    margin-left: 209px;
   }
 
   .u-section-2 .u-image-1 {
-    width: 410px;
-    height: 314px;
+    margin-left: 245px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 942px;
+    min-height: 921px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 126px;
+    margin-left: 117px;
   }
 
   .u-section-2 .u-custom-html-1 {
     width: 720px;
   }
 
-  .u-section-2 .u-layout-cell-1 {
-    min-height: 100px;
-  }
-
   .u-section-2 .u-text-2 {
-    width: 300px;
+    margin-right: 272px;
+    margin-left: 91px;
   }
 
   .u-section-2 .u-image-1 {
-    width: 300px;
-    height: 230px;
+    margin-left: 144px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 1133px;
+    min-height: 691px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 36px;
+    margin-left: 27px;
   }
 
   .u-section-2 .u-custom-html-1 {
     width: 540px;
-    margin-top: -17px;
   }
 
-  .u-section-2 .u-container-layout-1 {
-    padding-left: 10px;
-    padding-right: 10px;
+  .u-section-2 .u-text-2 {
+    margin-right: 118px;
+    margin-left: 64px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-left: 27px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 851px;
+    min-height: 323px;
   }
 
   .u-section-2 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
     width: 340px;
   }
 
   .u-section-2 .u-custom-html-1 {
     width: 340px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 340px;
+    height: 260px;
+    margin-left: 0;
   }
 }.u-section-3 {
   background-image: url("images/Free-Simple-Black-Seamless-Pattern-for-Website-Background.jpg");
