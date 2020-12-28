@@ -4,7 +4,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 149px;
+  min-height: 142px;
 }
 
 .u-section-1 .u-text-1 {
@@ -12,41 +12,37 @@
 }
 
 .u-section-1 .u-text-2 {
-  margin: 7px auto 35px;
+  margin: 7px auto 0;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 123px;
-  }
-
-  .u-section-1 .u-text-2 {
-    margin-bottom: 0;
+    min-height: 117px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 94px;
+    min-height: 90px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 71px;
+    min-height: 68px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 45px;
+    min-height: 43px;
   }
 }.u-section-2 {
   background-image: url("images/Free-Simple-Black-Seamless-Pattern-for-Website-Background.jpg");
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 1458px;
+  min-height: 1474px;
 }
 
 .u-section-2 .u-text-1 {
@@ -71,12 +67,17 @@
   width: 486px;
   height: 372px;
   animation-duration: 1000ms;
-  margin: 10px auto 60px 327px;
+  margin: 10px auto 0 327px;
+}
+
+.u-section-2 .u-text-3 {
+  width: 358px;
+  margin: 10px auto 31px;
 }
 
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 1202px;
+    min-height: 1215px;
   }
 
   .u-section-2 .u-text-1 {
@@ -102,7 +103,7 @@
 
 @media (max-width: 991px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 921px;
+    min-height: 931px;
   }
 
   .u-section-2 .u-text-1 {
@@ -126,7 +127,7 @@
 
 @media (max-width: 767px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 691px;
+    min-height: 698px;
   }
 
   .u-section-2 .u-text-1 {
@@ -150,7 +151,7 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 323px;
+    min-height: 327px;
   }
 
   .u-section-2 .u-text-1 {
@@ -172,6 +173,10 @@
     width: 340px;
     height: 260px;
     margin-left: 0;
+  }
+
+  .u-section-2 .u-text-3 {
+    width: 340px;
   }
 }.u-section-3 {
   background-image: url("images/Free-Simple-Black-Seamless-Pattern-for-Website-Background.jpg");
