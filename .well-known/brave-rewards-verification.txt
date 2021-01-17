@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: anthonystevens.cf
+Token: 2ef3b3935eeec67881d16ffa0738bfaa86c7b52d669dba6e8818ae0b95ab39dd
