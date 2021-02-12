@@ -1,0 +1,26 @@
+Vanilla Tweaks Resource Pack
+Version: 1.12
+Packs:
+	RedIronGolemFlowers
+	BlackNetherBricks
+	SmoothDoubleStoneSlabs
+	DifferentStems
+	ClearerWater
+	BorderlessSnow
+	ConnectedBookshelves
+	VariatedPlanks
+	VariatedSmoothStone
+	QuieterNetherPortals
+	QuieterWater
+	QuieterMinecarts
+	QuieterDispensersDroppers
+	QuieterPistons
+	TransparentPumpkin
+	LowerFire
+	NeutralEndRods
+	NoJavaEditionTitle
+	PoppyToRose
+	VillagerstoNPCs
+	DiminishingTools
+	PingColorIndicator
+	StoneBackground
