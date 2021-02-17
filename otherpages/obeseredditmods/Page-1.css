@@ -1,5 +1,5 @@
 .u-section-1 {
-  background-image: none;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url("images/image1.png");
 }
 
 .u-section-1 .u-sheet-1 {
@@ -70,6 +70,10 @@
 }
 
 @media (max-width: 1199px) {
+  .u-section-1 {
+    background-position: 50% 50%;
+  }
+
   .u-section-1 .u-sheet-1 {
     min-height: 430px;
   }
@@ -187,7 +191,7 @@
     margin-left: 20px;
   }
 }.u-section-2 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/image1.png");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url("images/image1.png");
 }
 
 .u-section-2 .u-sheet-1 {
@@ -244,5 +248,115 @@
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
     min-height: 71px;
+  }
+}.u-section-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url("images/image1.png");
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 247px;
+}
+
+.u-section-3 .u-text-1 {
+  font-size: 3.75rem;
+  margin: 20px auto 0 0;
+}
+
+.u-section-3 .u-text-2 {
+  font-size: 2.25rem;
+  margin: 56px auto 49px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-3 .u-sheet-1 {
+    min-height: 204px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 156px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 117px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 74px;
+  }
+
+  .u-section-3 .u-text-1 {
+    font-size: 1.5rem;
+  }
+}.u-section-4 {
+  background-image: none;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 386px;
+}
+
+.u-section-4 .u-group-1 {
+  width: 800px;
+  min-height: 321px;
+  height: auto;
+  margin: 33px auto;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 30px 50px;
+}
+
+.u-section-4 .u-text-1 {
+  margin: 2px 0 0;
+}
+
+.u-section-4 .u-line-1 {
+  width: 100px;
+  height: 3px;
+  margin: 14px auto 0;
+}
+
+.u-section-4 .u-text-2 {
+  margin: 25px 0 0;
+}
+
+.u-section-4 .u-btn-1 {
+  padding: 0;
+}
+
+.u-section-4 .u-btn-2 {
+  padding: 0;
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-group-1 {
+    width: 720px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-group-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-group-1 {
+    width: 340px;
   }
 }
