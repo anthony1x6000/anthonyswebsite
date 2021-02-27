@@ -1612,8 +1612,8 @@ background-color: #FA03E8  !important;
 .theme-dark .mentioned-xhSam7,
 .message-2qnXI6.mentioned-xhSam7.selected-2P5D_Z, 
 .mouse-mode.full-motion .mentioned-xhSam7:hover {
-  background: #740AFF;
-  border: 0px solid rgba(0, 12, 255, 1);
+  background: RGBA(116, 10, 255, 0.5);
+  border: 2px solid RGBA(116, 10, 255, 0.9);
 }
 
 .theme-dark .mentioned-xhSam7 .mention {
